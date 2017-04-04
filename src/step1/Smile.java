@@ -22,7 +22,7 @@ public class Smile extends PApplet {
 		//fill(255, 0, 0);
 		int[] color= suncolorset(second()); 
 		fill(color[0],color[1],color[2]);
-		ellipse(200,200,50,50);
+		ellipse(400,400,50,50);
 		//fill(0,0,0);
 	}
 
